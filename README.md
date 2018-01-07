@@ -62,3 +62,6 @@ J:
 cd millionhero
 python hero.py
 ```
+
+## 类似项目
+[用云OCR平台进行图像识别 wuditken/MillionHeroes](https://github.com/wuditken/MillionHeroes)
